@@ -1,0 +1,6 @@
+\\corp.zodiac.lan\share_zcs\HB\User\Russell.Tan\My Documents\Visual Studio 2010\Projects\Northwind testing\Northwind testing\bin\Northwind testing.dll
+\\corp.zodiac.lan\share_zcs\HB\User\Russell.Tan\My Documents\Visual Studio 2010\Projects\Northwind testing\Northwind testing\bin\Northwind testing.pdb
+\\corp.zodiac.lan\share_zcs\HB\User\Russell.Tan\My Documents\Visual Studio 2010\Projects\Northwind testing\Northwind testing\obj\Debug\ResolveAssemblyReference.cache
+\\corp.zodiac.lan\share_zcs\HB\User\Russell.Tan\My Documents\Visual Studio 2010\Projects\Northwind testing\Northwind testing\obj\Debug\Northwind testing.dll
+\\corp.zodiac.lan\share_zcs\HB\User\Russell.Tan\My Documents\Visual Studio 2010\Projects\Northwind testing\Northwind testing\obj\Debug\Northwind testing.pdb
+\\corp.zodiac.lan\share_zcs\HB\User\Russell.Tan\My Documents\Visual Studio 2010\Projects\Northwind testing\Northwind testing\bin\Northwind testing.dll.config
